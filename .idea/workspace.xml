@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41ea0bdb-3f73-465b-b312-345b8e264fe0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html/template/images/devappreactcouv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/images/devportfoliocouv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/images/formationgithubcouv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/images/formationlatexcouv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/images/pcbuildcouv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/images/photomaltacouv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/images/reactnativecouv.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/template/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/works.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,15 +25,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/template/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1275" />
+            <state relative-caret-position="1255">
+              <caret line="104" column="58" selection-start-line="104" selection-start-column="58" selection-end-line="104" selection-end-column="58" />
+            </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/template/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="806" column="46" lean-forward="true" selection-start-line="806" selection-start-column="46" selection-end-line="806" selection-end-column="46" />
+            <state relative-caret-position="1159">
+              <caret line="848" column="7" selection-start-line="848" selection-start-column="7" selection-end-line="848" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -41,11 +53,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/template/works.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="573" column="51" selection-start-line="573" selection-start-column="51" selection-end-line="573" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>java</find>
+      <find>mouse</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -54,13 +79,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/html/template/index.html" />
         <option value="$PROJECT_DIR$/html/template/resume.html" />
+        <option value="$PROJECT_DIR$/html/template/works.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+    <option name="x" value="-252" />
+    <option name="y" value="-12" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -92,6 +119,13 @@
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
               <item name="mailer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -114,6 +148,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Adrien\ephec\Portfolio\portfolio\html\template\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,15 +177,15 @@
       <option name="presentableId" value="Default" />
       <updated>1571487175913</updated>
       <workItem from="1571487177261" duration="231000" />
-      <workItem from="1571487422811" duration="3524000" />
+      <workItem from="1571487422811" duration="7151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3755000" />
+    <option name="totallyTimeSpent" value="7382000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
@@ -174,11 +213,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/template/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1275" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/template/mailer/class.phpmailer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1377" />
@@ -193,10 +227,17 @@
     <entry file="file://$PROJECT_DIR$/html/template/mailer/PHPMailerAutoload.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1255">
+          <caret line="104" column="58" selection-start-line="104" selection-start-column="58" selection-end-line="104" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/template/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="806" column="46" lean-forward="true" selection-start-line="806" selection-start-column="46" selection-end-line="806" selection-end-column="46" />
+        <state relative-caret-position="1159">
+          <caret line="848" column="7" selection-start-line="848" selection-start-column="7" selection-end-line="848" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -209,6 +250,22 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#6;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#6;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#6;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/images/work1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/images/work3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/works.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="573" column="51" selection-start-line="573" selection-start-column="51" selection-end-line="573" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
