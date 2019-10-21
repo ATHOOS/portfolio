@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41ea0bdb-3f73-465b-b312-345b8e264fe0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/html/template/images/maltevoyage.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/template/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/works.html" afterDir="false" />
     </list>
@@ -17,12 +16,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html/template/works.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="229" column="109" selection-start-line="229" selection-start-column="109" selection-end-line="229" selection-end-column="109" />
+            <state relative-caret-position="796">
+              <caret line="332" column="97" lean-forward="true" selection-start-line="332" selection-start-column="97" selection-end-line="332" selection-end-column="97" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/template/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="166" column="25" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -36,6 +46,9 @@
       <find>pop</find>
       <find>popup-1</find>
       <find>image</find>
+      <find>full-w</find>
+      <find>single</find>
+      <find>full</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -95,6 +108,13 @@
               <item name="template" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+              <item name="mailer" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -140,16 +160,19 @@
       <workItem from="1571502920966" duration="443000" />
       <workItem from="1571506845627" duration="1101000" />
       <workItem from="1571515767467" duration="543000" />
+      <workItem from="1571573739656" duration="868000" />
+      <workItem from="1571683978302" duration="4450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9670000" />
+    <option name="totallyTimeSpent" value="14988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -197,13 +220,6 @@
     <entry file="file://$PROJECT_DIR$/html/template/images/hostPortfoliocouv1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/template/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="881">
-          <caret line="104" column="58" selection-start-line="104" selection-start-column="58" selection-end-line="104" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/template/resume.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14416">
@@ -230,11 +246,6 @@
     <entry file="file://$PROJECT_DIR$/html/template/css/jarallax.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/template/css/magnific-popup.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-439" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/template/css/solid.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -257,20 +268,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="166" column="25" selection-start-line="166" selection-start-column="25" selection-end-line="166" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/template/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1637">
-          <caret line="1273" column="21" selection-start-line="1273" selection-start-column="21" selection-end-line="1273" selection-end-column="21" />
+        <state relative-caret-position="1960">
+          <caret line="3025" column="5" lean-forward="true" selection-start-line="3025" selection-start-column="5" selection-end-line="3025" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/css/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html/template/works.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="229" column="109" selection-start-line="229" selection-start-column="109" selection-end-line="229" selection-end-column="109" />
+        <state relative-caret-position="796">
+          <caret line="332" column="97" lean-forward="true" selection-start-line="332" selection-start-column="97" selection-end-line="332" selection-end-column="97" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
