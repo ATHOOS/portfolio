@@ -2,38 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41ea0bdb-3f73-465b-b312-345b8e264fe0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/work_app_react.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/work_formation_latex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/work_hebergement_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/work_jpo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/template/work_presentation_odoo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/template/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/client1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/client2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/client3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/client4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/man.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/man2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/resume_bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/rev1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/rev2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/started_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/started_image2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/started_image3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/started_image4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/started_image_p.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/team1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/team2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/work1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/work2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/work3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/work4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/work5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/work6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/work7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/work8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/images/works_single.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/contacts_creative.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/contacts_creative.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_montage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/contacts_image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/contacts_image.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_formation_github.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/contacts_map.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/mailer/form_setting.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/mailer/form_setting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/index_creative.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/index_image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/index_onepage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/index_personal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/index_slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/index_video.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/html/template/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/resume_creative.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/resume_image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/work_single_creative.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/work_single_creative.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_formation_react.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/work_single_image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/work_single_image.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_dev_portfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/template/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/works.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/template/works_creative.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +40,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html/template/resume.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="103" column="52" lean-forward="true" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
+                <state relative-caret-position="340">
+                  <caret line="115" column="75" selection-start-line="115" selection-start-column="75" selection-end-line="115" selection-end-column="75" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#1;n#li#4;n#ul#0;n#div#1;n#div#0;n#div#4;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#div#1;n#li#5;n#ul#0;n#div#1;n#div#0;n#div#4;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -65,17 +60,17 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/html/template/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="285">
-                  <caret line="111" column="77" lean-forward="true" selection-start-line="111" selection-start-column="77" selection-end-line="111" selection-end-column="77" />
+                <state relative-caret-position="353">
+                  <caret line="115" column="75" selection-start-line="115" selection-start-column="75" selection-end-line="115" selection-end-column="75" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/template/contacts.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="110" column="41" lean-forward="true" selection-start-line="99" selection-start-column="36" selection-end-line="110" selection-end-column="41" />
+                <state relative-caret-position="544">
+                  <caret line="116" column="30" lean-forward="true" selection-start-line="116" selection-start-column="30" selection-end-line="116" selection-end-column="30" />
                   <folding>
                     <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -90,8 +85,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/html/template/works.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="271">
-                  <caret line="111" column="94" selection-start-line="111" selection-start-column="72" selection-end-line="111" selection-end-column="94" />
+                <state relative-caret-position="339">
+                  <caret line="115" column="75" selection-start-line="115" selection-start-column="75" selection-end-line="115" selection-end-column="75" />
                   <folding>
                     <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -133,10 +128,10 @@
       <list>
         <option value="$PROJECT_DIR$/html/template/css/layout.css" />
         <option value="$PROJECT_DIR$/html/template/mailer/form_setting.php" />
-        <option value="$PROJECT_DIR$/html/template/contacts.html" />
         <option value="$PROJECT_DIR$/html/template/works.html" />
-        <option value="$PROJECT_DIR$/html/template/index.html" />
         <option value="$PROJECT_DIR$/html/template/resume.html" />
+        <option value="$PROJECT_DIR$/html/template/index.html" />
+        <option value="$PROJECT_DIR$/html/template/contacts.html" />
       </list>
     </option>
   </component>
@@ -242,16 +237,15 @@
       <workItem from="1571769903658" duration="8442000" />
       <workItem from="1571844443470" duration="9214000" />
       <workItem from="1571922967630" duration="1896000" />
-      <workItem from="1571941582650" duration="5833000" />
+      <workItem from="1571941582650" duration="6354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40972000" />
+    <option name="totallyTimeSpent" value="41493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11567164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -374,27 +368,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/template/contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="110" column="41" lean-forward="true" selection-start-line="99" selection-start-column="36" selection-end-line="110" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/html/template/contacts_creative.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/template/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="111" column="77" lean-forward="true" selection-start-line="111" selection-start-column="77" selection-end-line="111" selection-end-column="77" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/html/template/contacts_image.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/contacts_map.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/work_dev_portfolio.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/html/template/works.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="111" column="94" selection-start-line="111" selection-start-column="72" selection-end-line="111" selection-end-column="94" />
+        <state relative-caret-position="339">
+          <caret line="115" column="75" selection-start-line="115" selection-start-column="75" selection-end-line="115" selection-end-column="75" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -411,10 +400,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/work_app_react.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/work_formation_react.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/html/template/resume.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="103" column="52" lean-forward="true" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
+        <state relative-caret-position="340">
+          <caret line="115" column="75" selection-start-line="115" selection-start-column="75" selection-end-line="115" selection-end-column="75" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#li#4;n#ul#0;n#div#1;n#div#0;n#div#4;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#li#5;n#ul#0;n#div#1;n#div#0;n#div#4;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -422,6 +417,41 @@
             <element signature="n#style#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#li#3;n#ul#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="115" column="75" selection-start-line="115" selection-start-column="75" selection-end-line="115" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/work_formation_github.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/work_formation_latex.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/work_hebergement_site.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/work_jpo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/work_presentation_odoo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/work_montage.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/template/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="116" column="30" lean-forward="true" selection-start-line="116" selection-start-column="30" selection-end-line="116" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
