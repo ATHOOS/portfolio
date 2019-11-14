@@ -3,21 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="41ea0bdb-3f73-465b-b312-345b8e264fe0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/work_app_react.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_app_react.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/work_dev_portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_dev_portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/work_formation_github.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_formation_github.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/work_formation_latex.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_formation_latex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/work_formation_react.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_formation_react.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/work_hebergement_site.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_hebergement_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/template/work_jpo.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_jpo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/template/work_malta.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_malta.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/template/work_montage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_montage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/work_presentation_odoo.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_presentation_odoo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/work_single.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/work_single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/template/works.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/template/works.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,24 +18,14 @@
       <executable />
     </execution>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>java</find>
-      <find>mouse</find>
-      <find>pop</find>
-      <find>popup-1</find>
-      <find>full-w</find>
-      <find>single</find>
-      <find>full</find>
-      <find>image</find>
-      <find>hover</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1TcKYOxAlhWVASt3onlwiSy26Cw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -105,7 +83,8 @@
       <workItem from="1573753578116" duration="40000" />
       <workItem from="1573753720978" duration="158000" />
       <workItem from="1573753998333" duration="62000" />
-      <workItem from="1573754077171" duration="692000" />
+      <workItem from="1573754077171" duration="3330000" />
+      <workItem from="1573757436291" duration="600000" />
     </task>
     <servers />
   </component>
@@ -124,5 +103,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
